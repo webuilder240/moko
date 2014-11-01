@@ -1,0 +1,15 @@
+{
+    "name": "nick/moko",
+	"autoload": {
+		"psr-0":{
+			"Moko": "."
+		}
+	},
+    "authors": [
+        {
+            "name": "Nishio Takuya",
+            "email": "littlecub240@gmail.com"
+        }
+    ],
+    "require": {}
+}
